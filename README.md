@@ -3,7 +3,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Ayush+Mishra;Backend-leaning+full-stack+dev;Node.js+%2B+Express+%2B+MongoDB;Still+writing+C%2B%2B+for+DSA" alt="intro" />
 
 <p>
-  <a href="https://github.com/ayushm3018"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://ayush-mishra.com/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ayushmishra02/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/rayuga3018/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:ayushmishra3018@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -38,11 +40,6 @@ long-running habit of solving **DSA problems in C++** on the side.
 ### Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushm3018&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=00000000" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushm3018&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000" alt="top languages" />
-
-<br />
 
 <img src="https://streak-stats.demolab.com?user=ayushm3018&hide_border=true&theme=tokyonight&background=00000000" alt="streak" />
 
